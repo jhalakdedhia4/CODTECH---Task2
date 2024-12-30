@@ -16,6 +16,19 @@
 
 **Overview**
 
+
+![a2q](https://github.com/user-attachments/assets/600d8b2c-e499-4b9d-8c49-524cacd9e521)
+
+
+![a3q](https://github.com/user-attachments/assets/d2567663-965a-40bd-9834-34bc39714ad5)
+
+
+![Screenshot (16)](https://github.com/user-attachments/assets/a7708d79-eb69-41d4-8c06-473beee3c13d)
+
+
+![Screenshot (15)](https://github.com/user-attachments/assets/585692f2-34df-41f4-adaa-5801338be008)
+
+
 **Movie House** is a cutting-edge web application built to enhance the experience of discovering and exploring movies. With its sleek design and powerful filtering options, users can seamlessly browse a vast collection of movies. Leveraging React and Vite, Movie House ensures high performance and responsiveness across devices, delivering a modern movie-browsing experience.
 ________________________________________
 **Features**
